@@ -4,7 +4,7 @@ Provides the ability to have a permissions group which has editing rights but no
 
 ##License
 
-Hash Path is licensed under an [MIT license](http://heyday.mit-license.org/)
+Publish permissions is licensed under an [MIT license](http://heyday.mit-license.org/)
 
 ##Installation
 
